@@ -1,4 +1,4 @@
-[![Home](https://img.shields.io/badge/Home-README-blue?style=for-the-badge&logo=homeassistant)](Gyaan-AI/README.md)
+[![Home](https://img.shields.io/badge/Home-README-blue?style=for-the-badge&logo=homeassistant)](ReadME.md)
 ## Introduction to SQL
 
 Structured Query Language (SQL) is a powerful and widely used language for managing and manipulating relational databases. SQL allows you to interact with databases to store, retrieve, update, and delete data. In this section, we will cover the fundamental concepts and syntax of SQL.
