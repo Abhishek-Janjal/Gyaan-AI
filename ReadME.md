@@ -12,8 +12,6 @@
 
 # AI & Data Science Learning Path
 
-# 🌳 AI & Data Science Learning Path
-
 ```
 AI & Data Science
 │
