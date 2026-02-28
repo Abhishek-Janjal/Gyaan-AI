@@ -1,0 +1,104 @@
+# ===========================
+# Python
+# ===========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ===========================
+# Virtual Environments
+# ===========================
+
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# ===========================
+# Jupyter Notebook
+# ===========================
+
+.ipynb_checkpoints
+
+# ===========================
+# IDE / Editor
+# ===========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===========================
+# OS Files
+# ===========================
+
+.DS_Store
+Thumbs.db
+
+# ===========================
+# Logs
+# ===========================
+
+*.log
+
+# ===========================
+# Environment Variables
+# ===========================
+
+.env
+.env.*
+
+# ===========================
+# Data Files (Optional)
+# Uncomment if needed
+# ===========================
+
+# data/
+# *.csv
+# *.xlsx
+# *.json
+
+# ===========================
+# ML Models (Important)
+# ===========================
+
+*.h5
+*.hdf5
+*.ckpt
+*.model
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# ===========================
+# Coverage & Testing
+# ===========================
+
+.coverage
+.tox/
+.pytest_cache/
+htmlcov/
