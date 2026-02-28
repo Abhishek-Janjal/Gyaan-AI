@@ -10,7 +10,9 @@
    - [UnSupervised Learning](content/unsupervised.md)
 7. [Deep Learning](content/TensorFlow_Basics.ipynb)
 
+# AI & Data Science Learning Path
 
+```
 AI & Data Science
 │
 ├── 1️⃣ Foundations
@@ -101,3 +103,4 @@ AI & Data Science
         ├── APIs
         ├── Docker
         └── Monitoring
+```
